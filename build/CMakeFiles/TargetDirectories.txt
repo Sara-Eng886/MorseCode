@@ -1,0 +1,3 @@
+C:/Users/MSI/Desktop/MorseCode/build/CMakeFiles/MorseCode.dir
+C:/Users/MSI/Desktop/MorseCode/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/MSI/Desktop/MorseCode/build/CMakeFiles/ZERO_CHECK.dir
